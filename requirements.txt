@@ -1,5 +1,15 @@
 streamlit
-PyPDF2==3.0.1
-google.generativeai
+fastapi
+uvicorn
+PyPDF2
+google-generativeai # Replace with latest version
 python-dotenv
-streamlit_extras
+streamlit-extras # Replace with latest version
+referencing
+Pygments
+attrs
+protobuf
+pillow
+typing_extensions
+packaging
+python-multipart  
