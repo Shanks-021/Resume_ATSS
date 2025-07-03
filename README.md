@@ -62,10 +62,4 @@ If you would like to contribute to this project, please follow these steps:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Prajwal Krishna
-Email: prajwalgbdr03@gmail.com
-
-Happy recruiting with Gemini Pro ATS!
